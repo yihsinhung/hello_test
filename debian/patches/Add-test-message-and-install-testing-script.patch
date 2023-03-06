@@ -1,0 +1,8 @@
+Description: Add test message for install and install testing.sh to /usr/bin/ 
+Author: YiHsinHung <ryokofan0531@gmail.com>
+
+--- /dev/null
++++ hello-2.10/src/testing.sh
+@@ -0,0 +1,2 @@
++#!/bin/bash
++echo "this is a test from Yi-Hsin HUNG"
